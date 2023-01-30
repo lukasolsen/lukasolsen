@@ -9,15 +9,9 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [nothing yet](nothing yet)
-
-- 📝 I regularly write articles on [nothing yet](nothing yet)
-
 - 💬 Ask me about **General Python Questions**
 
 - 📫 How to reach me **lukmarwil@gmail.com**
-
-- 📄 Know about my experiences [nothing yet](nothing yet)
 
 - ⚡ Fun fact **I only have 6 months of learning AI development, still trying on a Assistance AI.**
 
