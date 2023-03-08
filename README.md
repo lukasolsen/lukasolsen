@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas Olsen</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
+<h3 align="center">A passionate machine learner from Norway</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukasolsen" alt="lukasolsen" /></a> </p>
 
