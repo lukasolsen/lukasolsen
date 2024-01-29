@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=VetleViking&theme=transparent" align="right"/>
+        <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=c9s&theme=transparent" align="right"/>
     </a>
 
 <!--h1 without bottom border-->
